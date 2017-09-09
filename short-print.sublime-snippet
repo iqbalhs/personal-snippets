@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<?= ${1:\$data} ?>
+]]></content>
+	<tabTrigger>=</tabTrigger>
+	<scope>text.html</scope>
+	<description>[personal-snippets] short print</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<?php if (${1:condition}): ?>
+    $2
+<?php endif; ?>
+]]></content>
+	<tabTrigger>if</tabTrigger>
+	<scope>text.html</scope>
+	<description>[personal-snippets] html php if</description>
+</snippet>
