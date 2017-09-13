@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-for (${1:\$i} = ${2:0}; ${1:\$i} < $3; ${1:\$i}) {
-    ${4:# code...}
+for (${1:\$i} = ${2:0}; ${1:\$i} ${3:<} $4; ${1:\$i}) {
+    ${5:# code...}
 }
 ]]></content>
 	<tabTrigger>for</tabTrigger>
