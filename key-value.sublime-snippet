@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+'${1:key}' => '${2:value}'
+]]></content>
+	<tabTrigger>kv</tabTrigger>
+	<scope>source.php</scope>
+	<description>[personal-snippets] key => value multi dimensional array attribute</description>
+</snippet>
