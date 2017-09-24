@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+function(${1:\$${2:value}}) {
+	$3
+}
+]]></content>
+	<tabTrigger>afun</tabTrigger>
+	<scope>source.php</scope>
+	<description>[personal-snippets] array shorthand with new line</description>
+</snippet>
